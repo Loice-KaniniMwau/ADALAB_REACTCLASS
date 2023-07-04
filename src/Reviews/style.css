@@ -1,0 +1,19 @@
+.reviews{
+    display: flex;
+    margin-top: 2%;
+    gap: 70px;
+}
+.reviews2{
+margin-top: 8.0%;
+}
+.reviews1{
+    margin-top: 8%;
+}
+.reviews div{
+    border: 2px blanchedalmond solid;
+    
+}
+#comments{
+    font-style: italic;
+    font-size: larger;
+}
